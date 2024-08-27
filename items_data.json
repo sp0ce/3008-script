@@ -1,4 +1,5 @@
 {
+	"Medkit": [255, 0, 0],
 	"Pizza": [255, 170, 0],
 	"Beans": [0, 0, 0],
 	"Meatballs": [0, 0, 0],
@@ -11,12 +12,11 @@
 	"Striped Donut": [140, 130, 130],
 	"Chips": [220, 70, 40],
 	"Ice Cream": [120, 220, 150],
-	"Sacred Chocolate": [0, 0, 0],
-	"Cookie": [255, 170, 0],
-	"Fish Crackers": [255, 170, 0],
-	"Bloxy Soda": [170, 0, 0],
-	"2 Litre Dr. Bob": [170, 0, 0],
-	"Dr. Bob Soda": [170, 0, 0],
-	"Water": [0, 0, 0],
-	"Medkit": [255, 0, 0],
+	"Sacred Chocolate": [20, 170, 240],
+	"Cookie": [255, 200, 130],
+	"Fish Crackers": [0, 0, 0],
+	"Bloxy Soda": [0, 0, 0],
+	"2 Litre Dr. Bob": [0, 0, 0],
+	"Dr. Bob Soda": [0, 0, 0],
+	"Water": [0, 0, 0]
 }
